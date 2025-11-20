@@ -1,0 +1,107 @@
+{
+  "task_3_sections": {
+    "definitions": [
+      {
+        "pre-2026 claimant": "A claimant with limited capability for work and work-related activity who was entitled to an award of universal credit including the LCWRA element before 6 April 2026."
+      },
+      {
+        "severe conditions criteria claimant": "A claimant who has limited capability for work and work-related activity due to a severe condition and will have it for the rest of their life."
+      },
+      {
+        "relevant power": "The power in Article 14(2) of the Welfare Reform (Northern Ireland) Order 2015 or the power in section 132 of the Social Security Administration (Northern Ireland) Act 1992."
+      },
+      {
+        "standard allowance": "The allowance to be included in an award of universal credit."
+      }
+    ],
+    "obligations": [
+      {
+        "obligation": "The Secretary of State must exercise a relevant power to secure that the amounts of the standard allowance for tax years 2026-27 to 2029-30 are at least the calculated amounts."
+      },
+      {
+        "obligation": "The Department for Communities in Northern Ireland must exercise a relevant power to secure the standard allowance amounts for tax years 2026-27 to 2029-30."
+      }
+    ],
+    "responsibilities": [
+      {
+        "responsibility": "The Secretary of State and the Department for Communities must update standard allowance and LCWRA in line with CPI and uplift percentages."
+      },
+      {
+        "responsibility": "The Department for Communities must increase the protected LCWRA amount and standard allowance under relevant legislation."
+      },
+      {
+        "responsibility": "The Department for Communities must increase ESA IR personal allowance and disability premiums under relevant legislation."
+      }
+    ],
+    "eligibility": [
+      {
+        "eligibility": "Eligible for LCWRA element if pre-2026 claimant, severe conditions criteria claimant, or terminally ill."
+      },
+      {
+        "eligibility": "Eligible for standard allowance if they meet the financial conditions in section 5(1)(b) or (2)(b)."
+      }
+    ],
+    "payments": [
+      {
+        "payment": "Standard allowance paid to claimants who meet financial conditions."
+      },
+      {
+        "payment": "LCWRA element paid to eligible claimants including pre-2026 and severe conditions claimants."
+      },
+      {
+        "payment": "ESA IR personal allowance and disability premiums paid to eligible claimants."
+      }
+    ],
+    "penalties": [
+      {
+        "penalty": "No penalties are specified in the Act."
+      }
+    ],
+    "record_keeping": [
+      {
+        "record_keeping": "Secretary of State and NI Department must keep records of allowance amounts and CPI/uplift increases."
+      },
+      {
+        "record_keeping": "NI Department must keep records of protected LCWRA amount increases."
+      }
+    ]
+  },
+  "task_4_rules": [
+    {
+      "rule": "Act must define key terms",
+      "status": "pass",
+      "evidence": "Section defining consumer prices index and relevant power.",
+      "confidence": 100
+    },
+    {
+      "rule": "Act must specify eligibility criteria",
+      "status": "pass",
+      "evidence": "Regulation 27A and 40A define eligibility for LCWRA and severe conditions criteria.",
+      "confidence": 95
+    },
+    {
+      "rule": "Act must specify responsibilities of the administering authority",
+      "status": "pass",
+      "evidence": "Secretary of State and NI Department must exercise powers to maintain standard allowance and LCWRA.",
+      "confidence": 100
+    },
+    {
+      "rule": "Act must include enforcement or penalties",
+      "status": "fail",
+      "evidence": "No penalties or enforcement sections are present in the Act.",
+      "confidence": 80
+    },
+    {
+      "rule": "Act must include payment calculation or entitlement structure",
+      "status": "pass",
+      "evidence": "Section 1 outlines calculation of standard allowance using CPI and uplift percentages.",
+      "confidence": 100
+    },
+    {
+      "rule": "Act must include record-keeping or reporting requirements",
+      "status": "fail",
+      "evidence": "No record-keeping or reporting obligations are explicitly mandated.",
+      "confidence": 90
+    }
+  ]
+}
